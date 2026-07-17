@@ -20,12 +20,12 @@ checkpoints/
 
 # Dataset
 data/raw/
-*.txt
 
 # IDE
+# Editors
 .vscode/
-.zed/
 .idea/
+.zed/
 
 # OS
 .DS_Store
