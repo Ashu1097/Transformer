@@ -24,6 +24,7 @@ data/raw/
 
 # IDE
 .vscode/
+.zed/
 .idea/
 
 # OS
